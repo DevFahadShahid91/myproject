@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     String newstr;
+    String newstrmyname;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
